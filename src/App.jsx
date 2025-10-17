@@ -1396,7 +1396,7 @@ export default function Portfolio() {
                 <Mail className="w-8 h-8 text-white" />
               </div>
               <p className="text-sm text-slate-500 dark:text-zinc-400 mb-2">{t.contactEmail}</p>
-              <p className="font-bold text-base break-all leading-tight text-slate-900 dark:text-white">Arlianto032@gmail.com</p>
+              <p className="font-bold text-base break-all leading-tight text-slate-900 dark:text-white">syawaloktasyahputra@gmail.com</p>
             </a>
 
             <a href="tel:+6283176340970" className={`group bg-slate-50 dark:bg-zinc-800/50 backdrop-blur-xl border border-slate-200 dark:border-zinc-700/50 rounded-3xl p-8 hover:border-slate-300 dark:hover:border-zinc-600 transition-all hover:transform hover:scale-105 ${visibleSections.has('contact') ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '300ms' }}>
@@ -1404,7 +1404,7 @@ export default function Portfolio() {
                 <Phone className="w-8 h-8 text-white" />
               </div>
               <p className="text-sm text-slate-500 dark:text-zinc-400 mb-2">{t.contactPhone}</p>
-              <p className="font-bold text-lg text-slate-900 dark:text-white">+62 899 5257 735</p>
+              <p className="font-bold text-lg text-slate-900 dark:text-white">+62 831 7634 0970</p>
             </a>
 
             <div className={`group bg-slate-50 dark:bg-zinc-800/50 backdrop-blur-xl border border-slate-200 dark:border-zinc-700/50 rounded-3xl p-8 ${visibleSections.has('contact') ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '400ms' }}>
