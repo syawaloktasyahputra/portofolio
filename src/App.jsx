@@ -1429,7 +1429,7 @@ export default function Portfolio() {
               <a href="https://www.instagram.com/oktodev/" target="_blank" rel="noopener noreferrer" className="group w-16 h-16 bg-slate-100 dark:bg-zinc-900 rounded-2xl flex items-center justify-center hover:bg-pink-600 transition-all hover:scale-110 border border-slate-200 dark:border-zinc-700 hover:border-pink-400/50 shadow-lg">
                 <Instagram className="w-8 h-8 text-slate-500 dark:text-zinc-400 group-hover:text-white transition-colors" />
               </a>
-              <a href="https://oktodev.me" target="_blank" rel="noopener noreferrer" className="group w-16 h-16 bg-slate-100 dark:bg-zinc-900 rounded-2xl flex items-center justify-center hover:bg-teal-600 transition-all hover:scale-110 border border-slate-200 dark:border-zinc-700 hover:border-teal-400/50 shadow-lg">
+              <a href="https://portofolio.oktodev.me" target="_blank" rel="noopener noreferrer" className="group w-16 h-16 bg-slate-100 dark:bg-zinc-900 rounded-2xl flex items-center justify-center hover:bg-teal-600 transition-all hover:scale-110 border border-slate-200 dark:border-zinc-700 hover:border-teal-400/50 shadow-lg">
                 <Globe className="w-8 h-8 text-slate-500 dark:text-zinc-400 group-hover:text-white transition-colors" />
               </a>
             </div>
@@ -1527,7 +1527,7 @@ export default function Portfolio() {
               <a href="https://www.linkedin.com/in/oktodev/" target="_blank" rel="noopener noreferrer" className="group w-12 h-12 bg-slate-100 dark:bg-zinc-800 rounded-xl flex items-center justify-center hover:bg-slate-300 dark:hover:bg-zinc-700 transition-all border border-slate-300/50 dark:border-zinc-700 hover:border-slate-400/50 dark:hover:border-zinc-600">
                   <Linkedin className="w-6 h-6 text-slate-600 dark:text-zinc-400 group-hover:text-black dark:group-hover:text-white transition-colors" />
               </a>
-              <a href="https://www.instagram.com/tuanmudazaky_/" target="_blank" rel="noopener noreferrer" className="group w-12 h-12 bg-slate-100 dark:bg-zinc-800 rounded-xl flex items-center justify-center hover:bg-slate-300 dark:hover:bg-zinc-700 transition-all border border-slate-300/50 dark:border-zinc-700 hover:border-slate-400/50 dark:hover:border-zinc-600">
+              <a href="https://www.instagram.com/oktodev/" target="_blank" rel="noopener noreferrer" className="group w-12 h-12 bg-slate-100 dark:bg-zinc-800 rounded-xl flex items-center justify-center hover:bg-slate-300 dark:hover:bg-zinc-700 transition-all border border-slate-300/50 dark:border-zinc-700 hover:border-slate-400/50 dark:hover:border-zinc-600">
                   <Instagram className="w-6 h-6 text-slate-600 dark:text-zinc-400 group-hover:text-black dark:group-hover:text-white transition-colors" />
               </a>
             </div>
