@@ -387,7 +387,7 @@ export default function Portfolio() {
       // About
       aboutTitle: 'Who Am I?',
       aboutSubtitle: 'Automotive Student & Frontend Enthusiast',
-      aboutDesc1: 'I am an Automotive Engineering student at SMKN 6 Malang, passionate about frontend development, UI/UX design, and modern web technologies. With hands-on experience in designing, building, and optimizing web interfaces, I continuously develop my skills to become a reliable and creative frontend developer.', 
+      aboutDesc1: 'I am an Automotive Engineering student at SMKS UTAMA Ciranjang, passionate about frontend development, UI/UX design, and modern web technologies. With hands-on experience in designing, building, and optimizing web interfaces, I continuously develop my skills to become a reliable and creative frontend developer.', 
       aboutDesc2: 'My current focus is on frontend development, UI/UX design, and creating responsive, interactive web interfaces. I believe that well-designed interfaces and user experiences can significantly enhance the value and efficiency of digital products.',
       education: 'Education',
       viewCV: 'View CV', // Teks ini sudah benar
@@ -965,7 +965,7 @@ export default function Portfolio() {
             <span className={`transition-opacity duration-500 ${isSpecializationFading ? 'opacity-0' : 'opacity-100'}`}>
               {specializations[currentSpecialization]}
             </span>
-            <span className="text-base text-teal-600 dark:text-teal-400 font-semibold mt-1">@ SMKN 6 Malang</span>
+            <span className="text-base text-teal-600 dark:text-teal-400 font-semibold mt-1">@ SMKS UTAMA Ciranjang</span>
           </p>
 
           {/* CTA Buttons */}
@@ -1072,14 +1072,14 @@ export default function Portfolio() {
                   <GraduationCap className="w-8 h-8 text-teal-400" />
                   <div>
                     <p className="text-sm text-slate-500 dark:text-zinc-400">{t.education}</p>
-                    <p className="font-semibold text-slate-900 dark:text-white">SMKN 6 Malang</p>
+                    <p className="font-semibold text-slate-900 dark:text-white">SMKS UTAMA Ciranjang</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
                   <MapPin className="w-8 h-8 text-cyan-400" />
                   <div>
                     <p className="text-sm text-slate-500 dark:text-zinc-400">{t.location}</p>
-                    <p className="font-semibold text-slate-900 dark:text-white">Malang, Indonesia</p>
+                    <p className="font-semibold text-slate-900 dark:text-white">Cianjur, Indonesia</p>
                   </div>
                 </div>
               </div>
@@ -1399,7 +1399,7 @@ export default function Portfolio() {
               <p className="font-bold text-base break-all leading-tight text-slate-900 dark:text-white">Arlianto032@gmail.com</p>
             </a>
 
-            <a href="tel:+6281234567890" className={`group bg-slate-50 dark:bg-zinc-800/50 backdrop-blur-xl border border-slate-200 dark:border-zinc-700/50 rounded-3xl p-8 hover:border-slate-300 dark:hover:border-zinc-600 transition-all hover:transform hover:scale-105 ${visibleSections.has('contact') ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '300ms' }}>
+            <a href="tel:+6283176340970" className={`group bg-slate-50 dark:bg-zinc-800/50 backdrop-blur-xl border border-slate-200 dark:border-zinc-700/50 rounded-3xl p-8 hover:border-slate-300 dark:hover:border-zinc-600 transition-all hover:transform hover:scale-105 ${visibleSections.has('contact') ? 'animate-fade-in-up' : ''}`} style={{ animationDelay: '300ms' }}>
               <div className="w-16 h-16 bg-gradient-to-br from-cyan-400 to-sky-600 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-cyan-500/30">
                 <Phone className="w-8 h-8 text-white" />
               </div>
@@ -1412,7 +1412,7 @@ export default function Portfolio() {
                 <MapPin className="w-8 h-8 text-white" />
               </div>
               <p className="text-sm text-slate-500 dark:text-zinc-400 mb-2">{t.location}</p>
-              <p className="font-bold text-lg text-slate-900 dark:text-white">Malang, Jawa Timur</p>
+              <p className="font-bold text-lg text-slate-900 dark:text-white">Cianjur, Jawa Barat</p>
             </div>
           </div>
 
