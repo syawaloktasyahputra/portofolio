@@ -4,7 +4,7 @@
 
 Selamat datang di repositori portofolio pribadi saya. Ini bukan sekadar portofolio statis biasa, melainkan sebuah aplikasi web dinamis dan interaktif yang dibangun dengan teknologi modern. Proyek ini dirancang untuk menampilkan keahlian, proyek, dan perjalanan saya di dunia teknologi, khususnya dalam bidang **Infrastruktur Jaringan, Administrasi Sistem, dan Keamanan Siber**.
 
-**[🔗 Lihat Live Demo](https://oktodev.me)**
+**[🔗 Lihat Live Demo](https://portofolio.oktodev.me/)**
 
 ---
 
